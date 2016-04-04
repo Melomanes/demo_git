@@ -1,2 +1,1 @@
-# demo_git
-Une démo de gi²t
+On comprend bien et vite!
